@@ -201,6 +201,11 @@ header nav .home-color {
 #support .bgc {
   background-color: #35b6c1;
 }
+@media (max-width: 999px) {
+  #support .bgc {
+    margin: 20px 0;
+  }
+}
 
 #thehome {
   background-color: #f1f8f9;
